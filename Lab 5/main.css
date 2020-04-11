@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, 
+body {
+  height: 100%; 
+}
+
+article {
+  height: 500px;
+}
+
+/* Set the size of the div element that contains the map */
+#map {
+  margin-left: auto;
+  margin-right: auto;    
+  width: 75%; /*width of the parent - article element */ 
+  height: 75%; /*height of the parent - article element */ 
+  background-color:aqua;
+}
+
+h1 {
+  padding: 20px 0; 
+  text-align: center;
+  text-emphasis: bold;
+  font-size: 48;
+  
+}
